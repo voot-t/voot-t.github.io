@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science, University of Tokyo, Japan, 2017.
+  * I obtained PhD degree from the Department of Computer Science at the University of Tokyo under supervision of Prof. Masashi Sugiyama
+  * Thesis titled <i>Single-step Dimension Reduction for High-dimensional Data Analysis with Application in Reinforcement Learning</i>.
+
+* Masters in Computer Science, Tokyo Institute of Technology, Japan, 2014.
+  * I obtained Master degree from the Department of Computer Science at Tokyo Institute of Technology under supervision of Prof. Masashi Sugiyama.
+
+* Bachelors in Engineering, Chulalongkorn University, Thailand, 2011.
+  * I obtained Bachelor degree from the Faculty of Computer Engineering at Chulalongkorn University.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From March 2017 to present: Post-doctoral researcher
+  * RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan
+  * Imperfect Information Learning team. Supervisor: Masashi Sugiyama.
+  * I conduct machine learning research on the topic of robust and efficient reinforcement and imitation learning.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Visiting Student
+  * Technische Universität Darmstadt, Darmstadt, Germany
+  * Intelligent Autonomous Systems (IAS) group. Supervisors: Jan Peters and Gerhard Neumann
+  * I conducted collaborative research with IAS members on efficient reinforcement learning for robotics.
+  
+* Summer 2015: Intern Student
+  * Advanced Telecommunications Research Institute (ATR), Kyoto, Japan
+  * Department of Brain-Robot-Interface. Supervisor: Jun Morimoto
+  * I conducted collaborative research with ATR members on controlling humanoid robots by reinforcement learning.
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Expertise on machine learning research
+  * Specialized on reinforcement learning and imitation learning research.
+* 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Community Service
 ======
 * Currently signed in to 43 different slack teams
+
+Recent Publications
+======
+
+  <ul>
+  {% assign items = site.publications | sort: items.year | reverse %}
+  {% for post in items limit:5 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>
