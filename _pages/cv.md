@@ -13,10 +13,11 @@ Education
 ======
 * PhD in Computer Science, University of Tokyo, Japan, 2017.
   * I obtained PhD degree from the Department of Computer Science at the University of Tokyo under supervision of Prof. Masashi Sugiyama
-  * Thesis titled <i>Single-step Dimension Reduction for High-dimensional Data Analysis with Application in Reinforcement Learning</i>.
+  * PhD thesis titled <i>Single-step Dimension Reduction for High-dimensional Data Analysis with Application in Reinforcement Learning</i>
 
 * Masters in Computer Science, Tokyo Institute of Technology, Japan, 2014.
   * I obtained Master degree from the Department of Computer Science at Tokyo Institute of Technology under supervision of Prof. Masashi Sugiyama.
+  * Master thesis titled <i>Least-Squares Conditional Density Estimation with Dimensionality Reduction</i>
 
 * Bachelors in Engineering, Chulalongkorn University, Thailand, 2011.
   * I obtained Bachelor degree from the Faculty of Computer Engineering at Chulalongkorn University.
@@ -42,14 +43,20 @@ Skills
 ======
 * Expertise on machine learning research
   * Specialized on reinforcement learning and imitation learning research.
-* 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-  
-Community Service
+* Python programming
+  * Deep learning libraries (Pytorch and Tensorflow)
+  * Reinforcement learning related libraries (Gym, Mujoco, and Pybullet) 
+* Academic paper writing, reading, and reviewing 
+* Language skill
+  * English: Academic level  
+  * Thai: Native 
+  * Japanese: Beginner level
+
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* RIKEN 2019 Ohbu Award (Research & Industry Partnership Incentive Award)
+* IBIS 2016 best student presentation award
 
 Recent Publications
 ======
