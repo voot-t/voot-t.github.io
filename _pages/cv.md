@@ -22,23 +22,26 @@ Education
 * Bachelors in Engineering, Chulalongkorn University, Thailand, 2011.
   * I obtained Bachelor degree from the Faculty of Computer Engineering at Chulalongkorn University.
 
-Work experience
+Job experience
 ======
 * From March 2017 to present: Post-doctoral researcher
   * RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan
   * Imperfect Information Learning team. Supervisor: Masashi Sugiyama.
-  * I conduct machine learning research on the topic of robust and efficient reinforcement and imitation learning.
+  * Duty: I conduct machine learning research and publish papers on the topic of robust and efficient reinforcement and imitation learning.
 
+Internships
+======
 * Summer 2016: Visiting Student
   * Technische Universität Darmstadt, Darmstadt, Germany
   * Intelligent Autonomous Systems (IAS) group. Supervisors: Jan Peters and Gerhard Neumann
-  * I conducted collaborative research with IAS members on efficient reinforcement learning for robotics.
+  * Duty: I conducted collaborative research with IAS members on efficient reinforcement learning for robotics.
   
 * Summer 2015: Intern Student
   * Advanced Telecommunications Research Institute (ATR), Kyoto, Japan
   * Department of Brain-Robot-Interface. Supervisor: Jun Morimoto
-  * I conducted collaborative research with ATR members on controlling humanoid robots by reinforcement learning.
+  * Duty: I conducted collaborative research with ATR members on controlling humanoid robots by reinforcement learning.
   
+
 Skills
 ======
 * Expertise on machine learning research
@@ -51,7 +54,6 @@ Skills
   * English: Academic level  
   * Thai: Native 
   * Japanese: Beginner level
-
 
 Awards
 ======
