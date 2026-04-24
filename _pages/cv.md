@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[PDF version](https://academicpages.github.io/files/cv.pdf) 
+[PDF version](https://voot-t.github.io/files/cv.pdf) 
 
 Work history
 ======
