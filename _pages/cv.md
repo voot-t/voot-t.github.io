@@ -14,15 +14,14 @@ redirect_from:
 
 Work history
 ======
-* **Senior Research Scientist**: January 2022 -- present 
-  * **Sony AI**, Tokyo, Japan
-  * Part of **Gastronomy Robotics Project**
-  * Responsibility: Conduct research and development on learning algorithms and robotics systems to perform _fine manipulation in the gastronomy domain_.
+* **Senior Research Scientist** at **Sony AI**, Tokyo, Japan
+  * January 2022 -- present 
+  * Conduct research and development on robot learning algorithms and systems for _fine manipulation in gastronomy domains_.
+  * Lead a small team of machine learning researchers and engineers to deliver robot learning solutions.
 
-* **Post-doctoral researcher**: April 2017 -- December 2021 
-  * **RIKEN Center for Advanced Intelligence Project (AIP)**, Tokyo, Japan
-  * Part of **Imperfect Information Learning Team**
-  * Responsibility: Conduct research on machine learning algorithms to _enable high-performant models under different data constraints_.
+* **Post-doctoral researcher** at **RIKEN Center for Advanced Intelligence Project (AIP)**, Tokyo, Japan
+  * April 2017 -- December 2021 
+  * Conduct research on machine learning algorithms to _enable high-performant models under practical data constraints_.
 
 Education
 ======
@@ -51,13 +50,14 @@ Internship experience
   
 Technical Skills
 ======
-* Expertise in **Reinforcement learning and Imitation learning for robot learning**
+* General machine learning, with expertise in **Reinforcement learning and Imitation learning for robot learning**
 * Programming skills
   * Deep learning libraries (Pytorch, Jax, Keras, and Tensorflow)
   * Robot simulation libraries (Gymnasium, Mujoco, and Pybullet)
   * Python language programming
   * Robot Operating System (ROS)
-  * Software development tools: Git version control, Docker container, and Linux OS 
+* Familiarity with commercial robot arms, especially Panda robots.
+* Software development tools: Git version control, Docker, and Linux 
 * Language skills
   * English: Academic level, including paper reading, writing, and reviewing
   * Japanese: Intermediate level
@@ -66,20 +66,18 @@ Technical Skills
 Non-technical Skills:
 ======
 * Team management experience:
-  * Team leader of a 5-members subteam of robot learning researchers and engineers
-  * Responsibility: Outline development roadmaps and present them to the executives and stakeholders
+  * I am a sub-team leader with 5-members of robot learning researchers and engineers
 * Mentorship:
-  * I have experience as a mentor of internship students who joined the teams.
+  * I have experiences as a mentor of internship students who joined the teams.
 * Collaboration with external organizations:
-  * I have experience collaborating with external organizations for joint research, publications, and patents.
+  * I have experiences collaborating with external organizations for joint research, publications, and patents.
 
 Awards
 ======
 * RIKEN 2019 Ohbu Award
   * Research & Industry Partnership Incentive Award
-* IBIS 2016 Best student presentation award: 
+* Best student presentation award: 
   * Venue: Information-Based Induction Sciences and Machine Learning 2016, Kyoto, Japan
-  * Policy Search with High-dimensional Context Variables
 
 Recent Publications
 ======
