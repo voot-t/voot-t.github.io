@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+
+[PDF version](https://academicpages.github.io/files/cv.pdf) 
+
+Work history
 ======
 * **Senior Research Scientist**: January 2022 -- present 
   * **Sony AI**, Tokyo, Japan
@@ -38,12 +41,12 @@ Internship experience
 ======
 * **Visiting Student**: 2016
   * Technische Universität Darmstadt, Darmstadt, Germany
-  * Intelligent Autonomous Systems (IAS) group. Supervisors: Jan Peters and Gerhard Neumann
+  * Intelligent Autonomous Systems (IAS) group under supervisors Prof. Jan Peters and Prof. Gerhard Neumann
   * Responsibility: Conduct collaborative research on reinforcement learning in robot manipulators
   
 * **Intern Student**: 2015 
   * Advanced Telecommunications Research Institute (ATR), Kyoto, Japan
-  * Department of Brain-Robot-Interface. Supervisor: Jun Morimoto
+  * Department of Brain-Robot-Interface under supervisor Dr. Jun Morimoto
   * Responsibility: Conduct collaborative research on reinforcement learning in humanoid robots
   
 Technical Skills
@@ -55,19 +58,19 @@ Technical Skills
   * Python language programming
   * Robot Operating System (ROS)
   * Software development tools: Git version control, Docker container, and Linux OS 
-* Language skill
+* Language skills
   * English: Academic level, including paper reading, writing, and reviewing
   * Japanese: Intermediate level
   * Thai: Native 
 
-Soft Skills:
+Non-technical Skills:
 ======
 * Team management experience:
   * Team leader of a 5-members subteam of robot learning researchers and engineers
   * Responsibility: Outline development roadmaps and present them to the executives and stakeholders
 * Mentorship:
-  * I have experience as a mentor of internship students who joined the team.
-* External collaboration:
+  * I have experience as a mentor of internship students who joined the teams.
+* Collaboration with external organizations:
   * I have experience collaborating with external organizations for joint research, publications, and patents.
 
 Awards

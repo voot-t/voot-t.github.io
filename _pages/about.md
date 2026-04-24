@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a machine learning researcher who specializes in reinforcement learning for robotics. 
+I am a machine learning researcher who focuses on reinforcement learning for robotics.
 My research goal is to make smart robots that are useful to _everybody_.
 I am originally from Thailand and have been living in Japan since 2012. 
 
@@ -18,7 +18,8 @@ Technical interests
 ======
 - Machine learning, especially reinforcement learning
 - Robotics, especially manipulators and humanoids
-- Currently interested in RL algorithms that quickly adapts VLA to unseen tasks.
+- Currently interested in RL algorithms that quickly adapts VLA to unseen robotics tasks.
+
 
 About this site
 ------
