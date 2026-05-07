@@ -47,7 +47,7 @@ def create_md(lines: list, layout: list):
             md += f"\ncategory: {item[layout.index('category')]}"
         else:
             md += "\ncategory: manuscripts"
-        md += f"\npermalink: /publication/{html_filename}"
+        md += f"\npermalink: /publications/{html_filename}"
         if len(str(item[layout.index('excerpt')])) > 5:
             md += f"\nexcerpt: '{html_escape(item[layout.index('excerpt')])}'"
         md += f"\ndate: {item[layout.index('pub_date')]}"

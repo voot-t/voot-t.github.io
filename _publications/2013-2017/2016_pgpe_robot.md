@@ -2,7 +2,7 @@
 title: "Trial and error: Using previous experiences as simulation models in humanoid motor learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2016_pgpe_robot
+permalink: /publications/2016_pgpe_robot
 venue: 'IEEE Robotics & Automation Magazine'
 date: 2016-03-01
 author: 'Norikazu Sugimoto, Voot Tangkaratt, Thijs Wensveen, Tingting Zhao, Masashi Sugiyama, Jun Morimoto'

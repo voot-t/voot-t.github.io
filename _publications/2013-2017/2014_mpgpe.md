@@ -2,7 +2,7 @@
 title: "Model-based policy gradients with parameter-based exploration by least-squares conditional density estimation"
 collection: publications
 category: manuscripts
-permalink: /publication/2014_mpgpe
+permalink: /publications/2014_mpgpe
 venue: 'Neural Networks journal'
 date: 2014-09-01
 author: 'Voot Tangkaratt, Syogo Mori, Tingting Zhao, Jun Morimoto, Masashi Sugiyama'

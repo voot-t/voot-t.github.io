@@ -2,7 +2,7 @@
 title: "Fast and Scalable Bayesian Deep Learning by Weight-perturbation in Adam"
 collection: publications
 category: conferences
-permalink: /publication/2018_vadam
+permalink: /publications/2018_vadam
 venue: 'International Conference on Machine Learning'
 s_venue : 'ICML'
 date: 2018-07-01

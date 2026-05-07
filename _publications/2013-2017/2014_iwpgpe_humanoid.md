@@ -2,7 +2,7 @@
 title: "Efficient reuse of previous experiences in humanoid motor learning"
 collection: publications
 category: conferences
-permalink: /publication/2014_iwpgpe_humanoid
+permalink: /publications/2014_iwpgpe_humanoid
 date: 2014-11-01
 venue: 'International Conference on Humanoid Robots'
 author: 'Norikazu Sugimoto, Voot Tangkaratt, Thijs Wensveen, Tingting Zhao, Masashi Sugiyama, Jun Morimoto'

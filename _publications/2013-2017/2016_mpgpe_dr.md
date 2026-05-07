@@ -2,7 +2,7 @@
 title: "Model-based reinforcement learning with dimension reduction"
 collection: publications
 category: manuscripts
-permalink: /publication/2016_mpgpe_dr
+permalink: /publications/2016_mpgpe_dr
 venue: 'Neural Networks journal'
 date: 2016-12-01
 author: 'Voot Tangkaratt, Jun Morimoto, Masashi Sugiyama'

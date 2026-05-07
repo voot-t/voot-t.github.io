@@ -2,7 +2,7 @@
 title: "Simultaneous Planning for Item Picking and Placing by Deep Reinforcement Learning"
 collection: publications
 category: conferences
-permalink: /publication/2020_pick_place_plan_rl
+permalink: /publications/2020_pick_place_plan_rl
 venue: ' International Conference on Intelligent Robots and Systems '
 s_venue : 'IROS'
 date: 2020-08-01

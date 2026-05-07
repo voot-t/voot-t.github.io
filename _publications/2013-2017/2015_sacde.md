@@ -2,7 +2,7 @@
 title: "Direct conditional probability density estimation with sparse feature selection"
 collection: publications
 category: manuscripts
-permalink: /publication/2015_sacde
+permalink: /publications/2015_sacde
 venue: 'Machine Learning journal'
 date: 2015-01-01
 author: 'Motoki Shiga, Voot Tangkaratt, Masashi Sugiyama'

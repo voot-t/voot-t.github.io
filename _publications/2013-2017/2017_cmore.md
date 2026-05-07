@@ -4,7 +4,7 @@ collection: publications
 venue: 'AAAI Conference on Artificial Intelligence'
 s_venue : 'AAAI'
 category: conferences
-permalink: /publication/2017_cmore
+permalink: /publications/2017_cmore
 date: 2017-02-01
 author: 'Voot Tangkaratt, Herke van Hoof, Simone Parisi, Gerhard Neumann, Jan Peters, Masashi Sugiyama'
 excerpt: "Voot Tangkaratt, Herke van Hoof, Simone Parisi, Gerhard Neumann, Jan Peters, Masashi Sugiyama"

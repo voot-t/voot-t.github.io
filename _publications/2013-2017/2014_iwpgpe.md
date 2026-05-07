@@ -2,7 +2,7 @@
 title: "Efficient sample reuse in policy gradients with parameter-based exploration"
 collection: publications
 category: manuscripts
-permalink: /publication/2014_iwpgpe
+permalink: /publications/2014_iwpgpe
 date: 2013-06-01
 venue: 'Neural Computation journal'
 author: 'Tingting Zhao, Hirotaka Hachiya, Voot Tangkaratt, Jun Morimoto, Masashi Sugiyama'

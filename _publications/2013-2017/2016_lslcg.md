@@ -2,7 +2,7 @@
 title: "Sufficient Dimension Reduction via Direct Estimation of the Gradients of Logarithmic Conditional Densities"
 collection: publications
 category: conferences
-permalink: /publication/2016_lslcg
+permalink: /publications/2016_lslcg
 venue: 'Asian Conference on Machine Learning'
 s_venue: 'ACML'
 date: 2016-02-01

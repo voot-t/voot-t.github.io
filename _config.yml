@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Voot Tangkaratt"
   pronouns         : # example: "she/her"
-  bio              : "I am a machine learning researcher who focuses on reinforcement learning for robotics."
+  bio              : "I am a machine learning researcher focusing on robust imitation and reinforcement learning for robotics."
   location         : "Tokyo, Japan"
   employer         : "Sony AI"
   uri              : # URL
@@ -107,7 +107,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

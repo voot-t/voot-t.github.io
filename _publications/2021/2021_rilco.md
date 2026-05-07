@@ -2,7 +2,7 @@
 title: "Robust Imitation Learning from Noisy Demonstrations"
 collection: publications
 category: conferences
-permalink: /publication/2021_rilco
+permalink: /publications/2021_rilco
 venue: 'International Conference on Artificial Intelligence and Statistics'
 s_venue : 'AISTATS'
 date: 2021-04-01

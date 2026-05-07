@@ -2,7 +2,7 @@
 title: "Imitation Learning from Imperfect Demonstration"
 collection: publications
 category: conferences
-permalink: /publication/2019_icgail
+permalink: /publications/2019_icgail
 venue: 'International Conference on Machine Learning'
 s_venue : 'ICML'
 date: 2019-07-01

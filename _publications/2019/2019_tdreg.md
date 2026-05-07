@@ -2,7 +2,7 @@
 title: "TD-regularized actor-critic methods"
 collection: publications
 category: manuscripts
-permalink: /publication/2019_tdreg
+permalink: /publications/2019_tdreg
 venue: 'Machine Learning journal'
 date: 2019-09-01
 excerpt: 'Simone Parisi, Voot Tangkaratt, Jan Peters, Mohammad Emtiyaz Khan'

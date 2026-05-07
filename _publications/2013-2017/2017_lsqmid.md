@@ -2,7 +2,7 @@
 title: "Direct Estimation of the Derivative of Quadratic Mutual Information with Application in Supervised Dimension Reduction"
 collection: publications
 category: manuscripts
-permalink: /publication/2017_lsqmid
+permalink: /publications/2017_lsqmid
 venue: 'Neural Computation journal'
 date: 2017-08-01
 author: 'Voot Tangkaratt, Hiroaki Sasaki, Masashi Sugiyama'
