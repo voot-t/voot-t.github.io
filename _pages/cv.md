@@ -15,20 +15,20 @@ redirect_from:
 Work history
 ======
 * **Senior Research Scientist** at **Sony AI**, Tokyo, Japan
-  * January 2022 -- present 
+  * 2022 -- 2026
   * Research and development of robot learning pipeline, models, and algorithms for fine manipulation in gastronomy robotics.
 
 * **Post-doctoral researcher** at **RIKEN Center for Advanced Intelligence Project (AIP)**, Tokyo, Japan
-  * April 2017 -- December 2021 
+  * 2017 -- 2021
   * Research and development of robust imitation and reinforcement learning models and algorithms under real-world data constraints.
 
 Education
 ======
-* **PhD in Computer Science**: University of Tokyo, Graduate School of Information Science and Technology, Japan, 2017
+* **PhD in Computer Science**: The University of Tokyo, Japan, 2014 -- 2017
 
-* **Masters in Computer Science**: Tokyo Institute of Technology, Japan, 2014
+* **Masters in Computer Science**: Tokyo Institute of Technology, Japan, 2012 -- 2014
 
-* **Bachelors in Computer Engineering**: Chulalongkorn University, Thailand, 2011
+* **Bachelors in Computer Engineering**: Chulalongkorn University, Thailand, 2008 -- 2011
 
 * **High school**: Suankularb Wittayalai School, Thailand, 2002-2008.
 
