@@ -10,14 +10,13 @@ redirect_from:
 
 About me
 ======
-* I am a machine learning researcher focusing on <span style="color:blue">robust imitation and reinforcement learning for
-robotics</span>. 
-* My research goal is to make smart robots that are useful to everybody. 
-* I am originally from Thailand and have been living in Japan since 2012.
+- I am a robot learning researcher and engineer on imitation and reinforcement learning for robotics. 
+- My career goal is to make physical AI and robots that are useful to everybody. 
+- I am originally from Thailand and have been living in Japan since 2012.
 
 Technical interests
 ======
-- Robust imitation and reinforcement learning for robot manipulators and humanoids.
-- Learning algorithms for multi-tasks and quick adaptation to unseen tasks (lifelong and few-shot learning).
+- Real-world physical AI development with imitation and reinforcement learning.
+- Robot learning algorithms for multi-tasks and fast adaptation to unseen tasks.
 
 
