@@ -55,28 +55,26 @@ Internship experience
 Technical Skills
 ======
 * **Research & Engineering**
-  * Research, develop, and fine-tune robot policy networks (including Vision-Language-Action (VLA) architectures) utilizing imitation, reinforcement, and reward learning frameworks in simulation and on real-world hardware.
-  * Implement and optimize deep learning models and algorithms using PyTorch, Jax, Keras, and TensorFlow.
-  * Design and implement pipelines to collect multi-modal data from robot manipulators using teleoperation, kinesthetic teaching, motion capture, RGB-D cameras, and tactile sensors.
-  * Deploy trained learning models to control real-world robot manipulators.
+  * **Research, develop, and fine-tune** robot policy networks (including Vision-Language-Action (VLA) architectures) utilizing imitation, reinforcement, and reward learning frameworks in simulation and on real-world hardware.
+  * **Implement and optimize** deep learning models and algorithms using PyTorch, Jax, Keras, and TensorFlow.
+  * **Design and implement** pipelines to collect multi-modal data from robot manipulators using teleoperation, kinesthetic teaching, motion capture, RGB-D cameras, and tactile sensors.
+  * **Deploy** trained learning models to control real-world robot manipulators.
 
 * **Programming & Tools**
-  * Python (Core language; own and maintain a major portion of large scale codebases)
-  * C++ (Familiar language; analyze and review logic; personal prototyping for self-study)
-  * Robotics & Simulation: ROS ecosystem, MoveIt, Impedance controllers, RGB-D and tactile data processing, and MuJoCo.
-  * Software: AWS GPU clusters, Git, CI/CD workflows, and Docker.
+  * **Python** (Core language; own and maintain a major portion of large scale codebases)
+  * **C++** (Familiar language; analyze and review logic; personal prototyping for self-study)
+  * **Robotics & Simulation**: ROS ecosystem, MoveIt, Impedance controllers, RGB-D and tactile data processing, and MuJoCo.
+  * **Software**: AWS GPU clusters, Git, CI/CD workflows, and Docker.
 
 * **Language**
-  * English: Academic and business level
-  * Japanese: Intermediate level
-  * Thai: Native speaker
+  * **English**: Academic and business level
+  * **Japanese**: Intermediate level
+  * **Thai**: Native speaker
 
 Awards
 ======
-* RIKEN 2019 Ohbu Award
-  * Research & Industry Partnership Incentive Award
-* Best student presentation award: 
-  * Venue: Information-Based Induction Sciences and Machine Learning 2016, Kyoto, Japan
+* RIKEN 2019 Ohbu Award: Research & Industry Partnership Incentive Award
+* Best student presentation award: Information-Based Induction Sciences and Machine Learning (IBISML) 2016, Kyoto, Japan
 
 Recent Publications
 ======
