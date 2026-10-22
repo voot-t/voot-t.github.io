@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-- I am a robot learning researcher and engineer on imitation and reinforcement learning for robotics. 
-- My career goal is to make physical AI and robots that are useful to everybody. 
-- I am originally from Thailand and have been living in Japan since 2012.
+- I am a researcher and engineer specializing in imitation, reinforcement, and reward learning.
+- My career goal is to make physical AI and robots that are useful to everybody and work reliably in the real-world. 
+- I moved to Japan in 2012 to pursue my graduate studies. I have lived here even since and hold Japanese Permanent Residency.
 
 Technical interests
 ======

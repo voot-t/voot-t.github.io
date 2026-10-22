@@ -15,12 +15,20 @@ redirect_from:
 Work history
 ======
 * **Senior Research Scientist** at **Sony AI**, Tokyo, Japan
-  * 2022 -- 2026
-  * Research and development of robot learning pipeline, models, and algorithms for fine manipulation in gastronomy robotics.
+  * 2025 -- 2026 (Promoted from Research Scientist)
+  * Managed a small team of researchers and engineers on daily technical execution.
+  * Collaborated directly with industrial domain experts to extract practical knowledge and translate it into robot learning systems.
+
+* **Research Scientist** at **Sony AI**, Tokyo, Japan
+  * 2022 -- 2025
+  * Researched and developed robot learning pipelines and algorithms for fine manipulation tasks in gastronomy robotics.
+  * Built and maintained a major portion of the team's large-scale Python codebase.
 
 * **Post-doctoral researcher** at **RIKEN Center for Advanced Intelligence Project (AIP)**, Tokyo, Japan
   * 2017 -- 2021
-  * Research and development of robust imitation and reinforcement learning models and algorithms under real-world data constraints.
+  * Researched and developed robust imitation and reinforcement learning algorithms under real-world data constraints.
+  * Published research findings at international AI/ML conferences.
+  * Collaborated with external research and industrial organizations for publications and patents.
 
 Education
 ======
@@ -46,34 +54,22 @@ Internship experience
   
 Technical Skills
 ======
-* **Research and development**
-  * Expertised in research and development of imitation (behavioral cloning, GAIL, VLA) and reinforcement learning (e.g., actor-critic, model-based RL, offline RL) models and algorithms..
-  * Experience in training and deploying learning models on real-world robots. 
-  * Experience with reward design and reward learning (e.g., inverse reinforcement learning and preference reward learning).
-  * Experience in research and development of robust ML (e.g., robust optimization and uncertainty estimation).
-  * Experience in implementing deep learning models and architectures. 
-  * Experience in implementing a robot learning pipeline on real-world robots with Python
-  * Experience in collecting real-world robot data of proprioceptor, vision, and tactile sensors using kinesthetic teaching, tele-operation, and motion capture systems.
-  * Familiarity with using GPU clusters for model training. 
-  * Familiarity with using position and impedance controllers for controlling robot manipulators.
+* **Research & Engineering**
+  * Research, develop, and fine-tune robot policy networks (including Vision-Language-Action (VLA) architectures) utilizing imitation, reinforcement, and reward learning frameworks in simulation and on real-world hardware.
+  * Implement and optimize deep learning models and algorithms using PyTorch, Jax, Keras, and TensorFlow.
+  * Design and implement pipelines to collect multi-modal data from robot manipulators using teleoperation, kinesthetic teaching, motion capture, RGB-D cameras, and tactile sensors.
+  * Deploy trained learning models to control real-world robot manipulators.
 
-* **Programming**
-  * Experience in Python programming.
-  * Experience in deep learning libraries (Pytorch, Jax, Keras, and Tensorflow).
-  * Experience with Robot Operating System (ROS) 1 and 2.
-  * Experience with robot simulation libraries (Gymnasium, Mujoco, and Pybullet).
-  * Familiarity with software development tools including AWS, Git, and Docker containers.
+* **Programming & Tools**
+  * Python (Core language; own and maintain a major portion of large scale codebases)
+  * C++ (Familiar language; analyze and review logic; personal prototyping for self-study)
+  * Robotics & Simulation: ROS ecosystem, MoveIt, Impedance controllers, RGB-D and tactile data processing, and MuJoCo.
+  * Software: AWS GPU clusters, Git, CI/CD workflows, and Docker.
 
 * **Language**
-  * Academic and business-level English
-  * Intermediate-level Japanese
-  * Native Thai
-
-
-Non-technical Skills:
-======
-* Experience in managing roadmaps and development of a small group of engineers and researchers.
-* Experience with collaborating with external organizations for research, development, publications, and patents.
+  * English: Academic and business level
+  * Japanese: Intermediate level
+  * Thai: Native speaker
 
 Awards
 ======
